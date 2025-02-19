@@ -1,0 +1,23 @@
+{
+  "name": "prb-03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P-Renato/PRB-03.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/P-Renato/PRB-03/issues"
+  },
+  "homepage": "https://github.com/P-Renato/PRB-03#readme",
+  "type": "module",
+  "dependencies": {
+    "picoprompt": "^5.0.1"
+  }
+}
